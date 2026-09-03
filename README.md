@@ -5,7 +5,7 @@ Das ist eine kleine Website für einen GeForce RTX Laptop.
 
 Ich habe dieses Projekt gemacht, um meine Kenntnisse in HTML und CSS zu verbessern und ein bisschen mit JavaScript zu üben.
 
-Was kann die Website
+Was kann die Website ?
  - Countdown bis zum Release
  - Informationen über den Laptop
  - Informationen zu NVIDIA DLSS 4
